@@ -1,7 +1,7 @@
 
 # Beauty & Skincare E-Store Report
 
-## 📖 Project Overview
+## Project Overview
 This project analyzes sales volumes and profitability for a **global skincare and beauty e-store**.  
 The business case (provided by [ZoomCharts](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/fp20-analytics-september-2024)) set the following strategic goals:
 - Achieve an **average annual profit margin of 15%** across all product groups  
@@ -20,19 +20,22 @@ The report highlights whether these KPIs were met and provides actionable insigh
 - average order value increased in 2021 and 2022, but fell in 2023 by 12 dollars
 - asia pacific largest market by sales (throughout all years), with africa consistently being the last
 - asia pacific roughly ~4x bigger than africa in 2023 (sales)
-- 
+- corporate sales growth target of 30% not met in any of the years
 - africa was the only market to not meet 400k goal in 2023
 - first market to reach 400k goal was asia pacific in 2022, no other market in any of the other years met this goal
-- 
 - europe the fastest growing market (sales), usca the slowest
 - asia pacific largest in sales, but europe most profitable
 - across all ears, europe has the highest profit margin (22%), asia pacific the lowest (13%)
 - profit margin for all markets fell in 2023
-- africa and europe was the only market where profit did not fall in 2023
+- europe was the only market where profit did not fall in 2023
 - corporate > consumer > self-employed shares of profits throughout all years and markets
+- home accessories only category with negative profit (after all years), -57k of profit, despite being the second best selling category
+- face care the category with highest profit margin at 36%
+- hair care category roughly breaking even after all years
+- makeup sales rose by 43% in 2023
+- body care most prfitable category after all years, making up 59% of all profits after all years, despite only making up 41% of sales
+- africa the least profitable market, making 66k across all years
 - **Discount Strategy** → Non-discounted products consistently outperformed discounted items, showing discounts eroded profitability.  
-- **Sales Growth** → Overall sales grew close to target, but the corporate segment exceeded expectations, surpassing the 30% growth goal.  
-- **Market Performance** → Not all regions achieved the $400K annual sales target, highlighting potential growth opportunities.  
 
 ---
 
