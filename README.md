@@ -24,6 +24,3 @@ A collection of interactive Power BI reports showcasing data analysis and visual
 - Report storytelling  
 
 ---
-
-## 💡 About
-This portfolio demonstrates how I use Power BI to turn raw data into insights for decision-making.
