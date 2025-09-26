@@ -50,30 +50,23 @@ What actions to take from this knowledge?
 ## Report Pages
 
 ### Executive Overview
-![Executive Overview](./images/Overview.png)
+![Executive Overview](./images/01-Overview.png)
 
 ### Geographic Insights
-![Geographic Insights](./images/Geographic%20Insights.png)
+![Geographic Insights](./images/04-Geographic%20Insights.png)
 
 ### Discount Strategy
-![Discount Strategy](./images/Discount%20Strategy.png)
+![Discount Strategy](./images/07-Discount%20Strategy.png)
 
 *(See `/images/` folder for additional report screenshots including drillthroughs and tooltips.)*  
 
 ---
 
 ## Tools & Skills Demonstrated
-- Power BI Desktop  
+- Power BI  
 - DAX (calculated measures for profit margin, YoY growth, sales splits)  
 - Report design & storytelling (executive summary, geographic deep-dive, discount analysis)  
-- Drillthrough, tooltips, and interactive slicers  
-
----
-
-## Files
-- `beauty-skincare-report.pbix` → Full interactive Power BI file  
-- `beauty-skincare-report.pdf` → Static export for quick review  
-- `/images/` → Screenshots of the report pages  
+- Drillthrough, tooltips, and interactive slicers   
 
 ---
 
