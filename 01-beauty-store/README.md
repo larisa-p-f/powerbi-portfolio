@@ -13,38 +13,77 @@ The report highlights whether these KPIs were met and provides actionable insigh
 ---
 
 ## Key Insights
-- **Profit Margin Trends** → Overall profit margin for all years was above the 15% target in later years, but fell from being consistently above 24% for 2020, 2021, 2022, to 16% in 2023
-- profit increased every year but fell in 2023 w a yoy of ~17%
-- despite sales rising every year (sales yoy in 2023 was 19.9%)-> meaning costs raised in 2023
-- overall sales growth target of 20% was met in 2021 and 2022 (both years above 26%) but not met in 2023
-- average order value increased in 2021 and 2022, but fell in 2023 by 12 dollars
-- asia pacific largest market by sales (throughout all years), with africa consistently being the last
-- asia pacific roughly ~4x bigger than africa in 2023 (sales)
-- corporate sales growth target of 30% not met in any of the years
-- africa was the only market to not meet 400k goal in 2023
-- first market to reach 400k goal was asia pacific in 2022, no other market in any of the other years met this goal
-- europe the fastest growing market (sales), usca the slowest
-- asia pacific largest in sales, but europe most profitable
-- across all ears, europe has the highest profit margin (22%), asia pacific the lowest (13%)
-- profit margin for all markets fell in 2023
-- europe was the only market where profit did not fall in 2023
-- corporate > consumer > self-employed shares of profits throughout all years and markets
-- home accessories only category with negative profit (after all years), -57k of profit, despite being the second best selling category
-- face care the category with highest profit margin at 36%
-- hair care category roughly breaking even after all years
-- makeup sales rose by 43% in 2023
-- body care most prfitable category after all years, making up 59% of all profits after all years, despite only making up 41% of sales
-- africa the least profitable market, making 66k across all years
-- usa the most profitabl country after all years ~208k, 1.3 mill in sales, 21% of sales from california
-- 
-- **Discount Strategy** → Non-discounted products consistently outperformed discounted items, showing discounts eroded profitability.
-- Discounted items lose money overall: discounted profit margin is negative most years and fell to −5.5% in 2023, while non-discounted margin stayed positive (but also dipped to 28.1%).
-- ~45% of sales revenue came from discounted lines each year—so those negative margins matter a lot. Hair care and Home & Accessories: discounted margins are strongly negative (≈ −15% and −18%).
+### 1) Executive KPI Readout
+- **Profit Margin:** Strong at **>24% in 2020–2022**, but **fell to ~16% in 2023** (still above the **15% target**, yet a steep decline).  
+- **Sales Growth:** The **20% overall YoY target** was **exceeded in 2021 and 2022** (>26%), but **missed in 2023 (~19.9%)**.  
+- **Corporate Growth:** The **30% target** for the corporate segment **was not met in any year**.  
+- **$400K per Market:** **Asia Pacific** first crossed **$400K in 2022**; **no other market** hit this threshold until this year; in **2023 Africa was the only market to not reach $400K**.  
 
-Body care: discounted margin barely above break-even (~3.6% vs 36.9% when full price). Make up and Face care: discounted margin still positive (~12% and ~16%), but far below full-price margins (~47%).
+---
 
-What actions to take from this knowledge?
+### 2) 2023 Performance Dynamics
+- **Profit** rose each year until **2023**, where it **declined (~–17% YoY)** despite **sales increasing ~19.9%** → **unit costs rose** and **margins compressed**.  
+- **Average Order Value** increased through **2021–2022**, then **fell by ~$12 in 2023**.  
 
+---
+
+### 3) Markets
+- **Asia Pacific** is the **largest market by sales** every year; **Africa** is consistently the smallest.  
+  In **2023**, APAC sales were **~4× Africa**.  
+- **Europe** is the **fastest-growing market by sales**; **USCA** is the slowest.  
+- **Profitability:** **Europe** is the **most profitable** region (avg margin **~22%**), **Asia Pacific** the **lowest (~13%)**.  
+  **Margins fell across all markets in 2023**, but **Europe’s absolute profit held up** (profit didn’t fall, margin did).  
+- **Total profit (all years):** **Africa** is least profitable (~**$66K**).  
+  **USA** is most profitable (~**$208K** profit on **$1.3M** sales); **~21% of US sales** come from **California**.  
+
+---
+
+### 4) Segments
+- **Profit share by segment** is stable: **Corporate > Consumer > Self-Employed** across all years and markets.  
+- Despite leadership in profit share, **Corporate** still **misses the 30% YoY growth target** each year.  
+
+---
+
+### 5) Categories
+- **Body Care**: **Most profitable** overall — **~59% of total profit** while only **~41% of sales**.  
+- **Face Care**: **Highest margin (~36%)**.  
+- **Makeup**: **Sales +43% in 2023**.  
+- **Hair Care**: Roughly **break-even** over all years.  
+- **Home & Accessories**: **Only category with negative profit** (≈ **–$57K**) despite being **second-best by sales**.  
+
+---
+
+### 6) Discount Strategy
+- **Discounted profit margin** is **negative most years** and **falls to ~–5.5% in 2023**;  
+  **Non-discounted margin** remained **positive but also fell in 2023**.  
+- **~45% of revenue** comes from **discounted lines each year** — the negative margins therefore have a **sizeable impact**.  
+- By category:  
+  - **Hair Care** and **Home & Accessories**: discounted margins **~–15%** and **~–18%** (deeply value-destructive).  
+  - **Body Care**: discounted margin **~3.6%**, non-discounted margin **~36.9%**.  
+  - **Makeup** and **Face Care**: discounted margins **~12%** and **~16%** — still positive but **far below** non-discounted margin **(~47%)**.
+- By market:
+  - **Asia Pacific**: **57% of sales came from discounted goods**, the highest share; **Africa** had the lowest at **26%**.  
+  - **Africa**: worst discounted margin (~**–37%**).  
+  - Other markets: discounted margins were **negative or barely break-even**.  
+  - **USCA** and **Europe** were the **only markets making any profit** from discounted goods (**$18.7K** and **$2.8K** respectively).  
+
+---
+
+## Actions Recommended
+
+### Pricing & Promotions
+- Stop blanket discounts. Prohibit where **historical discounted margin <5%** (e.g., **Hair Care**, **Home & Accessories**).
+- Keep discounts off our strongest performers (**Body Care, Face Care, Makeup**) and use **loyalty rewards or freebies** instead. 
+- Try **A/B testing price points**, or **short targeted promos** tied to stock or seasonality, then track whether they actually add profit, not just sales volume.  
+
+### Merchandising
+- Scale **Body Care** (biggest profit driver) and **Face Care** (highest margin).  
+- For **Home & Accessories**, either fix the cost structure or stop selling it (it’s a consistent money-loser).  
+- For **Hair Care**, cut costs and streamline the range before trying more promos.  
+
+### Market & Segment Strategy
+- Push growth in underperforming regions, especially **Africa**. Focus on a few “hero” products and avoid discount-led strategies there.  
+- In the **Corporate segment**, stop chasing growth through discounts. Instead, use **contracts, repeat orders, and higher order value incentives** to keep clients locked in while protecting margins.    
 ---
 
 ## Report Pages
