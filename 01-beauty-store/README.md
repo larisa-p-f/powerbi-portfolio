@@ -35,7 +35,15 @@ The report highlights whether these KPIs were met and provides actionable insigh
 - makeup sales rose by 43% in 2023
 - body care most prfitable category after all years, making up 59% of all profits after all years, despite only making up 41% of sales
 - africa the least profitable market, making 66k across all years
-- **Discount Strategy** → Non-discounted products consistently outperformed discounted items, showing discounts eroded profitability.  
+- usa the most profitabl country after all years ~208k, 1.3 mill in sales, 21% of sales from california
+- 
+- **Discount Strategy** → Non-discounted products consistently outperformed discounted items, showing discounts eroded profitability.
+- Discounted items lose money overall: discounted profit margin is negative most years and fell to −5.5% in 2023, while non-discounted margin stayed positive (but also dipped to 28.1%).
+- ~45% of sales revenue came from discounted lines each year—so those negative margins matter a lot. Hair care and Home & Accessories: discounted margins are strongly negative (≈ −15% and −18%).
+
+Body care: discounted margin barely above break-even (~3.6% vs 36.9% when full price). Make up and Face care: discounted margin still positive (~12% and ~16%), but far below full-price margins (~47%).
+
+What actions to take from this knowledge?
 
 ---
 
