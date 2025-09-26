@@ -33,7 +33,7 @@ The report highlights whether these KPIs were met and provides actionable insigh
 - **Europe** is the **fastest-growing market by sales**; **USCA** is the slowest.  
 - **Profitability:** **Europe** is the **most profitable** region (avg margin **~22%**), **Asia Pacific** the **lowest (~13%)**.  
   **Margins fell across all markets in 2023**, but **Europe’s absolute profit held up** (profit didn’t fall, margin did).  
-- **Total profit (all years):** **Africa** is least profitable (~**$66K**).  
+- **Total profit (all years):** Africa is least profitable (~**$66K**).  
   **USA** is most profitable (~**$208K** profit on **$1.3M** sales); **~21% of US sales** come from **California**.  
 
 ---
