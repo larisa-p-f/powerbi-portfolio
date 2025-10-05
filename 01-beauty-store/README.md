@@ -2,7 +2,7 @@
 # Beauty & Skincare E-Store Report
 
 ## Project Overview
-This project analyzes sales volumes and profitability for a **global skincare and beauty e-store**.  
+This project analyses sales volumes and profitability for a **global skincare and beauty e-store**.  
 The business case (provided by [ZoomCharts](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/fp20-analytics-september-2024)) set the following strategic goals:
 - Achieve an **average annual profit margin of 15%** across all product groups  
 - Reach **20% annual overall sales growth**, with a higher target of **30% for the corporate segment**  
