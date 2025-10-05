@@ -8,6 +8,9 @@ A collection of interactive Power BI reports showcasing data analysis and visual
 ### Beauty & Skincare E-Store Report
 - **Focus:** Sales, profit margin, discount strategy
 - [Project Folder](./01-beauty-store)
+- Overview:
+
+
 ![Overview Screenshot](./01-beauty-store/images/01-Overview.png)
 
 ### Future Projects
